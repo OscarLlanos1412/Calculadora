@@ -1,0 +1,15 @@
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora_God_Of_War.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora_God_Of_War.Form1.resources
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora_God_Of_War.Form2.resources
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora_God_Of_War.Properties.Resources.resources
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora_God_Of_War.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora_God_Of_War.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\bin\Debug\Calculadora.exe.config
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\bin\Debug\Calculadora.exe.manifest
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\bin\Debug\Calculadora.application
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\bin\Debug\Calculadora.exe
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\bin\Debug\Calculadora.pdb
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora.exe.manifest
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora.application
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora.exe
+C:\Users\oscar\source\repos\Calculadora_God_Of_War\Calculadora_God_Of_War\obj\Debug\Calculadora.pdb
